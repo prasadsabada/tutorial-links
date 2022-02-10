@@ -1,0 +1,18 @@
+FileNet API
+http://p8programmer.blogspot.com/search/label/Content%20Engine%20API
+
+
+ACCE
+http://49.50.69.37:9080/acce/
+p8admin
+P@ssw0rd
+
+
+interview q blog
+https://www.wisdomjobs.com/e-university/file-net-interview-questions.html
+https://mindmajix.com/filenet-interview-questions
+
+
+
+spring boot
+https://www.youtube.com/watch?v=zp2tqnpZiAU&list=PLVz2XdJiJQxw-jVLpBfVn2yqjvA1Ycceq
